@@ -21,7 +21,7 @@ To enroll in the Data Structures and Algorithms with Python, please visit the of
 
 ## Repository Description
 
-This repository is designed to support the G1 Data Structures and Algorithms with Python program for Mechanical Engineers at SURE Trust. It follows the below mentioned organization structure:
+This repository is designed to support the G1 Data Structures and Algorithms with Python program at SURE Trust. It follows the below mentioned organization structure:
 
 - **Notes**: An archive of  notes and course materials provided by our trainer - Lijo Joseph.
 - **Mini Projects**: A repository holding code files of the mini projects undertaken during the course.
