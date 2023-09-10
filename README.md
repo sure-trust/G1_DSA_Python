@@ -19,6 +19,15 @@ SURE Trust is a registered NGO committed to eradicating the disparity between sk
 
 To enroll in the Data Structures and Algorithms with Python, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses/133)
 
+
+|Student name|link|
+|------------|----|
+|Adarsh       |[click here](link)|
+|Husna        |[click here](link)|
+|Pallavi      |[click here](https://github.com/sure-trust/G1_DSA_Python/blob/main/Course%20Report/pallavi.md)|
+|Pavan sai    |[click here](link)|
+
+
 ## Repository Description
 
 This repository is designed to support the G1 Data Structures and Algorithms with Python program at SURE Trust. It follows the below mentioned organization structure:
