@@ -32,7 +32,7 @@ Below is a table summarizing the mini projects and final project completed durin
 |Mini Project 5: Doubly Linked List | [click here](https://github.com/Adarsh79/G1_DSA_Python/blob/main/Mini%20Projects/Adarsh/doubleLL.py)|
 |Mini Project 6: Binary Search Tree | [click here](https://github.com/Adarsh79/G1_DSA_Python/blob/main/Mini%20Projects/Adarsh/bstoperations.py)|
 |Mini Project 7: HashMap | [click here](https://github.com/Adarsh79/G1_DSA_Python/blob/main/Mini%20Projects/Adarsh/hashmap.py)|
-
+|||
 |Final Project 1: Implementing Generic Tree and drawing out its functions | [click here](https://github.com/Adarsh79/G1_DSA_Python/blob/main/Final%20Capstone%20Project/Adarsh/tree.py)|
 |Final Project 2: Implementing Binary Tree and drawing out its functions | [click here](https://github.com/Adarsh79/G1_DSA_Python/blob/main/Final%20Capstone%20Project/Adarsh/binarytree.py)|
 |Final Project 3: Implementing Maximum Binary Heap | [click here](https://github.com/Adarsh79/G1_DSA_Python/blob/main/Final%20Capstone%20Project/Adarsh/maxHeap.py)|
