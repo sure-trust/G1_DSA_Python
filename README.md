@@ -22,11 +22,8 @@ To enroll in the Data Structures and Algorithms with Python, please visit the of
 
 |Student name|link|
 |------------|----|
-|Adarsh       |[click here](link)|
 |Husna        |[click here](link)|
 |Pallavi      |[click here](https://github.com/sure-trust/G1_DSA_Python/blob/main/Course%20Report/pallavi.md)|
-|Pavan sai    |[click here](link)|
-
 
 ## Repository Description
 
