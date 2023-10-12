@@ -25,8 +25,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects:This project is regarding the practical implementation of the data structures and algorithms concepts  | [CLICK HERE](https://github.com/SyedHusna-22/G1_DSA_Python/tree/main/Mini%20Projects/Husna)|               
-| Final Project: This project is regarding the implementation of the important concepts of dsa using python| [CLICK HERE](https://github.com/SyedHusna-22/G1_DSA_Python/tree/main/Final%20Capstone%20Project/Husna)|
-
-
-
+| Mini Projects:This project is regarding the practical implementation of the data structures and algorithms concepts  | [CLICK HERE](https://github.com/sure-trust/G1_DSA_Python/tree/main/Mini%20Projects/Husna)|               
+| Final Project: This project is regarding the implementation of the important concepts of dsa using python| [CLICK HERE](https://github.com/sure-trust/G1_DSA_Python/tree/main/Final%20Capstone%20Project/Husna)|
